@@ -1,0 +1,84 @@
+[
+	{
+		"id": 1,
+		"title": "papas",
+		"description": "papas",
+		"price": 200,
+		"thumbnail": "sin imagen",
+		"code": "abc123",
+		"stock": 25
+	},
+	{
+		"id": 2,
+		"title": "banana",
+		"description": "bananas",
+		"price": 200,
+		"thumbnail": "sin imagen",
+		"code": "abc124",
+		"stock": 25
+	},
+	{
+		"id": 3,
+		"title": "naranja",
+		"description": "Naranjas",
+		"price": 200,
+		"thumbnail": "sin imagen",
+		"code": "abc125",
+		"stock": 25
+	},
+	{
+		"id": 4,
+		"title": "manzana",
+		"description": "Manzanas",
+		"price": 200,
+		"thumbnail": "sin imagen",
+		"code": "abc126",
+		"stock": 25
+	},
+	{
+		"id": 5,
+		"title": "mandarinas",
+		"description": "Mandarinas",
+		"price": 200,
+		"thumbnail": "sin imagen",
+		"code": "abc127",
+		"stock": 25
+	},
+	{
+		"id": 6,
+		"title": "zanahoria",
+		"description": "zanahorias",
+		"price": 200,
+		"thumbnail": "sin imagen",
+		"code": "abc128",
+		"stock": 25
+	},
+	{
+		"id": 7,
+		"title": "cebolla",
+		"description": "cebollas",
+		"price": 200,
+		"thumbnail": "sin imagen",
+		"code": "abc129",
+		"stock": 25
+	},
+	{
+		"id": 8,
+		"title": "huevo",
+		"description": "huevos",
+		"price": 200,
+		"thumbnail": "sin imagen",
+		"code": "abc130",
+		"stock": 25
+	},
+	{
+		"id": 9,
+		"title": "lechuga",
+		"description": "lechugas",
+		"price": 200,
+		"thumbnail": "sin imagen",
+		"code": "abc131",
+		"stock": 25
+	}
+	
+]
